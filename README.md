@@ -1,0 +1,1 @@
+# concretegan-strength-prediction
